@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/maheshnukala/Desktop/IIIT/PartB/mlruns/985799333516403827/268183e8eb8c436da2d480dfc6f67971/artifacts
+end_time: 1676354885259
+entry_point_name: ''
+experiment_id: '985799333516403827'
+lifecycle_stage: active
+run_id: 268183e8eb8c436da2d480dfc6f67971
+run_name: enthused-finch-449
+run_uuid: 268183e8eb8c436da2d480dfc6f67971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676354882915
+status: 3
+tags: []
+user_id: maheshnukala
